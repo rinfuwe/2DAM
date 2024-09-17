@@ -10,7 +10,7 @@ public class Students {
 
     public Student Average(int num)
     {
-        if (num >= 0 && num <= listStudent.stream().count())
+        if (num >= 0 && num <= listStudent.size())
         {
             return listStudent.get(num);
         }
@@ -19,16 +19,16 @@ public class Students {
 
     public float getAverage()
     {
-            if (listStudent.stream().count() == 0)
+            if (listStudent.size() == 0)
                 return 0;
             else
             {
                 float average = 0;
-                for (int i = 0; i < listStudent.stream().count(); i++)
+                for (int i = 0; i < listStudent.size(); i++)
                 {
                     average += listStudent.get(i).getMark();
                 }
-                return (average / listStudent.stream().count());
+                return (average / listStudent.size());
             }
     }
 }
