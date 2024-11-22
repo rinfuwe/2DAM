@@ -1,0 +1,52 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 19,
+                        "durationMicroseconds": 172,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 13
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 23,
+                        "durationMicroseconds": 45,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 16
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 34,
+                        "durationMicroseconds": 82,
+                        "errorMessage": "",
+                        "functionName": "horizontalAlignment",
+                        "line": 25
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 39,
+                        "durationMicroseconds": 132,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 26
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 30,
+                        "durationMicroseconds": 62,
+                        "errorMessage": "",
+                        "functionName": "sourceComponent",
+                        "line": 33
+                    }
+                ],
+                "filepath": "C:/Users/7698/Documents/ejercicio/build/Desktop_Qt_6_8_0_llvm_mingw_64_bit-Debug/View.qml"
+            }
+        ],
+        "moduleId": "ejercicio(appejercicio)"
+    }
+]

@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/qt/qml/ejercicio/">
+    <file alias="Main.qml">C:/Users/7698/Documents/ejercicio/Main.qml</file>
+    <file alias="View.qml">C:/Users/7698/Documents/ejercicio/View.qml</file>
+  </qresource>
+</RCC>
+

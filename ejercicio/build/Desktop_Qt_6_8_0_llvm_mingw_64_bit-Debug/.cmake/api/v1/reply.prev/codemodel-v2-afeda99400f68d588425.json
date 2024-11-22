@@ -1,0 +1,187 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-0e9fccc3450b66c2eb34.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ejercicio",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_aotstats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_aotstats-Debug-8bc937b19ca2ac91459e.json",
+					"name" : "all_aotstats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-6a65426fee9fbf84d51a.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-6ff4f4d446f031020420.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-d47004fdf5f18964d746.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-165c16eb7435ce8ecbc8.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appejercicio::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appejercicio-Debug-5f4c5ea8d9267085678c.json",
+					"name" : "appejercicio",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appejercicio_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appejercicio_autogen-Debug-13b54ef6d6d370c79a30.json",
+					"name" : "appejercicio_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appejercicio_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appejercicio_autogen_timestamp_deps-Debug-348c3f5052ce91cba618.json",
+					"name" : "appejercicio_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appejercicio_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appejercicio_qmlimportscan-Debug-912c35b5724cdc6fdb92.json",
+					"name" : "appejercicio_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appejercicio_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appejercicio_qmllint-Debug-65319d195b04fe8579c7.json",
+					"name" : "appejercicio_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appejercicio_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appejercicio_qmllint_json-Debug-55f87af19cfcb8d5f6d4.json",
+					"name" : "appejercicio_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appejercicio_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appejercicio_qmllint_module-Debug-4f8732fc13eb9fed288f.json",
+					"name" : "appejercicio_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appejercicio_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appejercicio_qmltyperegistration-Debug-8e24294d7532ace9797f.json",
+					"name" : "appejercicio_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appejercicio_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appejercicio_tooling-Debug-389424387af606f4ed45.json",
+					"name" : "appejercicio_tooling",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "module_appejercicio_aotstats_targets::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-module_appejercicio_aotstats_targets-Debug-0f35872c0a723abfa3e2.json",
+					"name" : "module_appejercicio_aotstats_targets",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/7698/Documents/ejercicio/build/Desktop_Qt_6_8_0_llvm_mingw_64_bit-Debug",
+		"source" : "C:/Users/7698/Documents/ejercicio"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

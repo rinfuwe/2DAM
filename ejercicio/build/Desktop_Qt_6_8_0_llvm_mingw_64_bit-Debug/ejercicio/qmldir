@@ -1,0 +1,6 @@
+module ejercicio
+typeinfo appejercicio.qmltypes
+prefer :/qt/qml/ejercicio/
+Main 1.0 Main.qml
+View 1.0 View.qml
+
